@@ -135,9 +135,6 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
   <td><a href="Samples/SimpleCommunication">Real-time communication</a></td>
   <td><a href="Samples/SmsSendAndReceive">SMS send and receive</a></td>
  </tr>
- <tr>
-  <td><a href="Samples/VoIP">Voice over IP (VoIP)</a></td>
- </tr>
 </table>
 
 ### Contacts and calendar
@@ -534,11 +531,12 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
 
 <table>
  <tr>
+  <td><a href="Samples/Capabilities">Capabilities</a></td>
   <td><a href="Samples/CustomCapability">Custom capabilities</a></td>
   <td><a href="Samples/ProxyStubsForWinRTComponents">In-process component authoring</a></td>
-  <td><a href="Samples/WRLInProcessWinRTComponent">In-process component authoring</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/WRLInProcessWinRTComponent">In-process component authoring</a></td>
   <td><a href="Samples/WRLOutOfProcessWinRTComponent">Out-of-process component authoring</a></td>
   <td><a href="Samples/VersionAdaptiveCode">Version adaptive code</a></td>
  </tr>

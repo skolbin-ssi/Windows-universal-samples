@@ -2,7 +2,7 @@
 page_type: sample
 languages:
 - cpp
-- cppcx
+- cppwinrt
 products:
 - windows
 - windows-uwp
@@ -48,6 +48,10 @@ The scenarios demonstrate the use of the these services:
 -   [Transliteration services](http://msdn.microsoft.com/library/windows/apps/dd374080)
 
     Enter a selection of text in Cyrillic. This returns the input text transliterated to Latin.
+
+-   Character grouping
+
+    Character groups can be used for headers in grouped views or for zoomed-out SemanticZoom views.
 
 **Note** The Windows universal samples require Visual Studio to build and Windows 10 to execute.
  

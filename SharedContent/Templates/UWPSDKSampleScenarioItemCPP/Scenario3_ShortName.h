@@ -12,7 +12,6 @@
 #pragma once
 
 #include "$safeitemname$.g.h"
-#include "MainPage.h"
 
 namespace winrt::SDKTemplate::implementation
 {
@@ -21,7 +20,7 @@ namespace winrt::SDKTemplate::implementation
         $safeitemname$();
 
     private:
-        SDKTemplate::MainPage rootPage{ SDKTemplate::implementation::MainPage::Current() };
+        SDKTemplate::MainPage rootPage{ MainPage::Current() };
     };
 }
 
