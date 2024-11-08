@@ -147,7 +147,6 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
  <tr>
   <td><a href="Samples/ContactPicker">Contact picker</a></td>
-  <td><a href="Samples/MyPeopleNotifications">My People notifications</a></td>
   <td><a href="Samples/UserDataAccountManager">UserDataAccountManager</a></td>
  </tr>
 </table>
@@ -309,31 +308,35 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
  <tr>
   <td><a href="Samples/IoT-I2C">Inter-Integrated Circuit (I2C)</a></td>
+  <td><a href="Samples/LampArray">Lamp array</a></td>
   <td><a href="Samples/LampDevice">Lamp device</a></td>
-  <td><a href="Samples/LightSensor">Light sensor</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/LightSensor">Light sensor</a></td>
   <td><a href="Samples/LineDisplay">Line display</a></td>
   <td><a href="Samples/Magnetometer">Magnetometer</a></td>
-  <td><a href="Samples/MagneticStripeReader">Magnetic stripe reader</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/MagneticStripeReader">Magnetic stripe reader</a></td>
   <td><a href="Samples/Nfc">Near field communication (NFC)</a></td>
   <td><a href="Samples/NfcProvisioner">NFC enterprise provisioner</a></td>
-  <td><a href="Samples/OrientationSensor">Orientation sensor</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/OrientationSensor">Orientation sensor</a></td>
   <td><a href="Samples/Pedometer">Pedometer</a></td>
   <td><a href="Samples/PosPrinter">POS printer</a></td>
-  <td><a href="Samples/ProximitySensor">Proximity sensor</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/PresenceSensor">Presence sensor</a></td>
+  <td><a href="Samples/ProximitySensor">Proximity sensor</a></td>
   <td><a href="Samples/RadialController">Radial controller</a></td>
+ </tr>
+ <tr>
   <td><a href="Samples/RelativeInclinometer">Relative inclinometer</a></td>
   <td><a href="Samples/SerialArduino">Serial Arduino</a></td>
+  <td><a href="Samples/IoT-SPI">Serial Peripheral Interface (SPI)</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/IoT-SPI">Serial Peripheral Interface (SPI)</a></td>
   <td><a href="Samples/SimpleOrientationSensor">Simple orientation sensor</a></td>
  </tr>
 </table>
@@ -447,16 +450,17 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/Personalization">Lock screen personalization</a></td>
   <td><a href="Samples/MicrosoftPassport">Microsoft Passport and Windows Hello</a></td>
-  <td><a href="Samples/SmartCard">Smart cards</a></td>
+  <td><a href="Samples/PersonalDataEncryption">Personal Data Encryption</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/SmartCard">Smart cards</a></td>
   <td><a href="Samples/UserInfo">User information</a></td>
   <td><a href="Samples/UserCertificateStore">UserCertificateStore</a></td>
-  <td><a href="Samples/UserConsentVerifier">UserConsentVerifier</a></td>
  </tr>
  <tr>
   <td><a href="Samples/WebAccountManagement">Web account management</a></td>
   <td><a href="Samples/WebAuthenticationBroker">WebAuthenticationBroker</a></td>
+  <td><a href="Samples/UserConsentVerifier">UserConsentVerifier</a></td>
  </tr>
 </table>
 
@@ -509,6 +513,11 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/Json">JSON</a></td>
   <td><a href="Samples/MobileBroadband">Mobile broadband</a></td>
+  <td><a href="Samples/MobileHotspot">Mobile hotspot</a></td>
+ </tr>
+ <tr>
+  <td><a href="Samples/NetworkConnectivity">Network connectivity</a></td>
+  <td><a href="Samples/OnDemandHotspot">On-Demand Wi-Fi hotspot</a></td>
   <td><a href="Samples/RadioManager">Radios</a></td>
  </tr>
  <tr>

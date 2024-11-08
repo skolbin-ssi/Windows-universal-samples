@@ -25,7 +25,6 @@ namespace SDKTemplate
             new Scenario() { Title = "Connect to Facebook Services", ClassType = typeof(Scenario1_Facebook) },
             new Scenario() { Title = "Connect to Twitter Services", ClassType = typeof(Scenario2_Twitter) },
             new Scenario() { Title = "Connect to Flickr Services", ClassType = typeof(Scenario3_Flickr) },
-            new Scenario() { Title = "Connect to Google Services", ClassType = typeof(Scenario4_Google) }
         };
     }
 
